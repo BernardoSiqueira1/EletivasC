@@ -1,0 +1,21 @@
+# ninja log v5
+0	66	7230511460421504	CMakeFiles/AltoDesempenho_C.dir/main.c.obj	c2553445ca0a9d73
+68	182	7230522216323211	aula1.exe	e91e7a63cfa531b4
+71	186	7230519814724472	AltoDesempenho_C.exe	f28037a221f9c109
+1	67	7230522215195890	CMakeFiles/aula1.dir/src/aula1/aula1.c.obj	51d5b7fe32d2aa3b
+2	228	7230585077154267	build.ninja	68fa076c0abb8fa5
+0	869	7230577564132398	CMakeFiles/aula8-server.dir/src/aula8/aula8-cliente.c.obj	6156b9ac8133131d
+0	69	7230516980831340	CMakeFiles/AltoDesempenho_C.dir/src/aula1/aula1.c.obj	ee07c778e1218668
+0	70	7230519813577254	CMakeFiles/AltoDesempenho_C.dir/src/aula2/aula2.c.obj	b74b98345a610324
+81	283	7230559678503715	aula4.exe	9d687f65bc8f1ce7
+7	73	7230518910868542	CMakeFiles/AltoDesempenho_C.dir/src/aula3/aula3.c.obj	22c7ecca7b841e63
+2	81	7230559676503154	CMakeFiles/aula4.dir/src/aula4/aula4.c.obj	a4b68c9b7d84776
+66	179	7230541525385088	aula3.exe	a4b407435dc63c1d
+1	66	7230541524278067	CMakeFiles/aula3.dir/src/aula3/aula3.c.obj	63fb5b6424d8dc70
+2	84	7230572166321591	CMakeFiles/aula5.dir/src/aula5/aula5.c.obj	3952556977406004
+84	203	7230572167498446	aula5.exe	58d67f890a5b923a
+1	71	7230575223955042	CMakeFiles/aula6.dir/src/aula6/aula6.c.obj	56a2e4660f08b661
+71	182	7230575225052106	aula6.exe	40d3029be9e79323
+2	135	7230585017259873	aula8-server.exe	9114d58fcf40132f
+0	866	7230585381995054	CMakeFiles/aula8-cliente.dir/src/aula8/aula8-server.c.obj	edf4e6f0c3f8286d
+866	985	7230585383172204	aula8-cliente.exe	ee9edeec3a4e1f3b

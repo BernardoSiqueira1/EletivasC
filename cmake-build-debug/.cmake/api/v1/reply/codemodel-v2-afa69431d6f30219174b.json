@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AltoDesempenho_C",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aula1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula1-Debug-1b29699b6c4be285bae8.json",
+					"name" : "aula1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula2-Debug-616243c9301af88efcfc.json",
+					"name" : "aula2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula3-Debug-1307d26cd78b25b6d23f.json",
+					"name" : "aula3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula4-Debug-0f44b0ced8c9d7c67c6c.json",
+					"name" : "aula4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula5-Debug-00cc52e9820170d007dc.json",
+					"name" : "aula5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula6-Debug-fc9a3e2ba5e5100e94c7.json",
+					"name" : "aula6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula6-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula6-2-Debug-26f9effc884a4c955453.json",
+					"name" : "aula6-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula6-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula6-3-Debug-3fdd39116a40071fe2e7.json",
+					"name" : "aula6-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula7-Debug-efe7928c916372b29275.json",
+					"name" : "aula7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula8-cliente::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula8-cliente-Debug-e7eb5c749af957465721.json",
+					"name" : "aula8-cliente",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula8-server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula8-server-Debug-80fb4b0b1770eeb7db0a.json",
+					"name" : "aula8-server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug",
+		"source" : "C:/Users/Pichau/CLionProjects/AltoDesempenho-C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

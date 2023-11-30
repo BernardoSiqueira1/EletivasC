@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.26)
+project(AltoDesempenho_C C)
+
+set(CMAKE_C_STANDARD 11)
+link_libraries(ws2_32 wsock32)
+
+add_executable(aula1 src/aula1/aula1.c)
+add_executable(aula2 src/aula2/aula2.c)
+add_executable(aula3 src/aula3/aula3.c)
+add_executable(aula4 src/aula4/aula4.c)
+add_executable(aula5 src/aula5/aula5.c)
+add_executable(aula6 src/aula6/aula6.c)
+add_executable(aula6-2 src/aula6/aula6-2.c)
+add_executable(aula6-3 src/aula6/aula6-3.c)
+add_executable(aula7 src/aula7/aula7.c)
+add_executable(aula8-server src/aula8/aula8-cliente.c)
+add_executable(aula8-cliente src/aula8/aula8-server.c)

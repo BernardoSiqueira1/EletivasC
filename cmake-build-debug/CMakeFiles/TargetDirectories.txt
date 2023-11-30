@@ -1,0 +1,13 @@
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula1.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula2.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula3.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula4.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula5.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula6.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula6-2.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula6-3.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula7.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula8-server.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/aula8-cliente.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pichau/CLionProjects/AltoDesempenho-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
